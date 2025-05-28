@@ -23,6 +23,8 @@ from torchtune.data._messages import (
     Role,
     ShareGPTToMessages,
     validate_messages,
+    "ARCToMessages",
+    "arc_to_messages"
 )
 from torchtune.data._prompt_templates import (
     ChatMLTemplate,
